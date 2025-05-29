@@ -23,7 +23,7 @@
 > - Check your API key dashboard to verify the key is active and has sufficient credits
 > - Ensure you're using the correct API key format (OpenAI keys start with "sk-")
 >
-> The configuration file is stored at: `C:\Users\[USERNAME]\AppData\Roaming\interview-coder-v1\config.json` (on Windows) or `/Users/[USERNAME]/Library/Application Support/interview-coder-v1/config.json` (on macOS)
+> The configuration file is stored at: `C:\Users\[USERNAME]\AppData\Roaming\overlayai-v1\config.json` (on Windows) or `/Users/[USERNAME]/Library/Application Support/overlayai-v1/config.json` (on macOS)
 
 ## Free, Open-Source AI-Powered Interview Preparation Tool
 
@@ -114,8 +114,8 @@ Note: The application is **NOT** invisible to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/greeneu/interview-coder-withoupaywall-opensource.git
-cd interview-coder-withoupaywall-opensource
+git clone https://github.com/greeneu/overlayai-opensource.git
+cd overlayai-opensource
 ```
 
 2. Install dependencies:

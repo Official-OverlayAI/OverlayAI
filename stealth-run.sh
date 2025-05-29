@@ -20,10 +20,11 @@ echo
 cd "$(dirname "$0")"
 
 echo "=== Step 1: Creating required directories... ==="
-mkdir -p ~/Library/Application\ Support/interview-coder-v1/temp
-mkdir -p ~/Library/Application\ Support/interview-coder-v1/cache
-mkdir -p ~/Library/Application\ Support/interview-coder-v1/screenshots
-mkdir -p ~/Library/Application\ Support/interview-coder-v1/extra_screenshots
+echo "=== OverlayAI - Invisible Edition (No Paywall) ==="
+mkdir -p ~/Library/Application\ Support/overlayai-v1/temp
+mkdir -p ~/Library/Application\ Support/overlayai-v1/cache
+mkdir -p ~/Library/Application\ Support/overlayai-v1/screenshots
+mkdir -p ~/Library/Application\ Support/overlayai-v1/extra_screenshots
 
 echo "=== Step 2: Cleaning previous builds... ==="
 echo "Removing old build files to ensure a fresh start..."

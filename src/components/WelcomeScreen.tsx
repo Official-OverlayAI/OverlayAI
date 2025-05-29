@@ -11,7 +11,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onOpenSettings }) 
       <div className="max-w-md w-full bg-black border border-white/10 rounded-xl p-6 shadow-lg">
         <h1 className="text-2xl font-bold text-white mb-6 flex items-center gap-2">
           <span>OverlayAI</span>
-          <span className="text-sm font-normal px-2 py-0.5 bg-blue-500/20 text-blue-400 rounded-md">Unlocked Edition</span>
+          <span className="text-sm font-normal px-2 py-0.5 bg-blue-500/20 text-blue-400 rounded-md">OverlayAI</span>
         </h1>
         
         <div className="mb-8">
