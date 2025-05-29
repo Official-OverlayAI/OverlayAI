@@ -1,4 +1,4 @@
-# CodeInterviewAssist
+# OverlayAI
 
 > ## ⚠️ IMPORTANT NOTICE TO THE COMMUNITY ⚠️
 > 
@@ -100,8 +100,8 @@ Note: The application is **NOT** invisible to:
 - Screen Recording Permission for Terminal/IDE
   - On macOS:
     1. Go to System Preferences > Security & Privacy > Privacy > Screen Recording
-    2. Ensure that CodeInterviewAssist has screen recording permission enabled
-    3. Restart CodeInterviewAssist after enabling permissions
+    2. Ensure that OverlayAI has screen recording permission enabled
+    3. Restart OverlayAI after enabling permissions
   - On Windows:
     - No additional permissions needed
   - On Linux:
@@ -192,7 +192,7 @@ The packaged applications will be available in the `release` directory.
 
 ## Comparison with Paid Interview Tools
 
-| Feature | Premium Tools (Paid) | CodeInterviewAssist (This Project) |
+| Feature | Premium Tools (Paid) | OverlayAI (This Project) |
 |---------|------------------------|----------------------------------------|
 | Price | $60/month subscription | Free (only pay for your API usage) |
 | Solution Generation | ✅ | ✅ |
