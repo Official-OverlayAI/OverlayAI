@@ -17,7 +17,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onOpenSettings }) 
         <div className="mb-8">
           <h2 className="text-lg font-medium text-white mb-3">Welcome to OverlayAI</h2>
           <p className="text-white/70 text-sm mb-4">
-            This application helps you ace technical interviews by providing AI-powered
+            OverlayAI helps you ace technical interviews by providing AI-powered
             solutions to coding problems.
           </p>
           <div className="bg-white/5 border border-white/10 rounded-lg p-4 mb-4">
@@ -46,6 +46,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onOpenSettings }) 
               <li className="flex justify-between text-sm">
                 <span className="text-white/70">Quit App</span>
                 <span className="text-white/90">Ctrl+Q / Cmd+Q</span>
+                <span className="text-white/90">Alt+F4 / Option+F4</span>
               </li>
             </ul>
           </div>
